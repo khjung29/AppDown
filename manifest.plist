@@ -13,18 +13,6 @@
                     <key>url</key>
                     <string>https://khjung29.github.io/AppDown/office.ipa</string>
                 </dict>
-                <dict>
-                    <key>kind</key>
-                    <string>display-image</string>
-                    <key>url</key>
-                    <string>https://</string>
-                </dict>
-                <dict>
-                    <key>kind</key>
-                    <string>full-size-image</string>
-                    <key>url</key>
-                    <string>https://</string>
-                </dict>
             </array>
             <key>metadata</key>
             <dict>
@@ -34,10 +22,8 @@
                 <string>4.7</string>
                 <key>kind</key>
                 <string>software</string>
-                <key>platform-identifier</key>
-                <string>com.apple.platform.iphoneos</string>
                 <key>title</key>
-                <string>mobileoffice</string>
+                <string>모바일오피스</string>
             </dict>
         </dict>
     </array>

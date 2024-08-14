@@ -29,15 +29,15 @@
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-                <string>[metadata 영역은]</string>
+                <string>com.mobileoffice</string>
                 <key>bundle-version</key>
                 <string>4.7</string>
                 <key>kind</key>
-                <string>[딱히]</string>
+                <string>software</string>
                 <key>platform-identifier</key>
-                <string>[건드리지]</string>
+                <string>com.apple.platform.iphoneos</string>
                 <key>title</key>
-                <string>[않아도 된다.]</string>
+                <string>mobileoffice</string>
             </dict>
         </dict>
     </array>
